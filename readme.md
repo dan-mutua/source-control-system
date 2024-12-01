@@ -117,7 +117,3 @@ source_control/
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Your Name - damutua15@gmail.com.com
-
