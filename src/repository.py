@@ -87,4 +87,4 @@ class Repository:
         Returns:
             str: Generated hash
         """
-        return hashlib.sha256(content.encode()).hexdigest()
+        return hashlib.scrypt(content.encode()).hexdigest()
