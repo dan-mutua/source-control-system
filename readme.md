@@ -33,10 +33,12 @@ python --version
 
 ### Initialize a Repository
 
-```bash   https://github.com/dan-mutua/source-control-system
+```bash 
+ https://github.com/dan-mutua/source-control-system 
 python main.py --init
 ```
 Creates a new source control repository in the current directory.
+
 
 ### Stage Files
 
