@@ -90,12 +90,6 @@ source_control/
     └── history.py          # Commit history tracking
 ```
 
-## Testing
-
-To run tests:
-```bash
-python -m unittest test_source_control.py
-```
 
 ## Limitations
 
@@ -125,6 +119,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - damutua15@gmail.com.com
 
-Project Link: [https://github.com/yourusername/simple-source-control](https://github.com/yourusername/simple-source-control)
