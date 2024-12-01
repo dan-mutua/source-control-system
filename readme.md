@@ -33,7 +33,7 @@ python --version
 
 ### Initialize a Repository
 
-```bash
+```bash   https://github.com/dan-mutua/source-control-system
 python main.py --init
 ```
 Creates a new source control repository in the current directory.
