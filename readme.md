@@ -20,7 +20,7 @@ This is a lightweight, Python-based version control system designed to mimic bas
 
 1. Clone the repository:
 ```bash
-git clone
+git clone https://github.com/dan-mutua/source-control-system
 cd simple-source-system
 ```
 
@@ -33,12 +33,10 @@ python --version
 
 ### Initialize a Repository
 
-```bash 
- https://github.com/dan-mutua/source-control-system 
+```bash
 python main.py --init
 ```
 Creates a new source control repository in the current directory.
-
 
 ### Stage Files
 
@@ -118,4 +116,3 @@ source_control/
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
