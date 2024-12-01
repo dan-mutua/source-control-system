@@ -80,9 +80,9 @@ python main.py --history --limit 5
 ## Project Structure
 
 ```
-source_control/
+source_control-system/
 ├── main.py                 # Main CLI interface
-└── srccontrol/
+└── src/
     ├── __init__.py         # Package initialization
     ├── repository.py       # Repository management
     ├── index.py            # Staging area management
